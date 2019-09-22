@@ -1,4 +1,4 @@
-# FlickPick
+## Flick Pick
 
 Deployed various Machine Learning models to classify the movie reviews as positive or negative. 
 
